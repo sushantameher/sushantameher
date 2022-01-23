@@ -1,0 +1,3 @@
+./pdfdecrypt/pwd.*
+./pdfdecrypt/output/*
+./pdfdecrypt/input/archive/*
